@@ -56,7 +56,7 @@ function App() {
     } else {
       return (
         <button onClick={connectWallet} className="button is-link is-small">
-          Connect wallet
+          CONNECT WALLET
         </button>
       );
     }
